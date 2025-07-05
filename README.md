@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SNAPKON
 - 👀 I’m interested in art, design, and coding.
-- 🌱 I’m currently attempting modding Minecraft.
+- 🌱 I’m currently attempting to create a FNaF fangame.
 
 <!---
 SNAPKON/SNAPKON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
